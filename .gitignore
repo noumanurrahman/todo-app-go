@@ -1,2 +1,3 @@
-./main/data.csv
-./*/go.sum
+main/data.csv
+*/go.sum
+.idea/
